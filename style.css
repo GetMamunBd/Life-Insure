@@ -430,7 +430,7 @@ footer p {
 RESPONSIVE START 
 ================================= */
 
-@media screen and (max-width:1090px) {
+@media screen and (max-width:1085px) {
     ul a {
         padding: 0 15px;
     }
